@@ -1,2 +1,0 @@
-# ccpythonWRJ
-college project
